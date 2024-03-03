@@ -161,3 +161,7 @@ Warning: `/etc/wireguard/nl-ams-wg-007.conf' is world accessible
 
 ```
 
+## Blessed 0-0
+```---```
+Don't worry the ouput is more colorfull on the real terminal. YnotY2 
+
