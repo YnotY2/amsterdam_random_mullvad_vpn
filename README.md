@@ -1,8 +1,12 @@
 # MullvadVPN Connection Tool
 
-This tool is designed to manage connections to MullvadVPN servers using WireGuard. It provides functionality to start, verify, and quit connections, as well as retrieve relevant connection details.
+This tool is designed to manage connections to MullvadVPN servers using WireGuard. It provides functionality to start, verify, and quit connections, as well as view relevant connection details in the terminal. This is a very simply lil-code that I thought I would make public cuz why not 0-0 . You can quite easily modify the code for you're use case... 
+
+- MullVad config-files download url; "https://mullvad.net/en/account/wireguard-config"
 
 ## Usage
+
++ Firt off make sure you WireGuard installed on youre system and have downloaded the WireGuard MullVad-VPN config files, and saved them within "/etc/wireguard" .
 
 To use this tool, follow these steps:
 
