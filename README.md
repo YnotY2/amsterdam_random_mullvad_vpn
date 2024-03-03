@@ -2,7 +2,7 @@
 
 ## Explained
 
-This tool is designed to start and end connections when specified to random Amsterdam MullvadVPN servers using WireGuard. It provides functionality to automatically starting, verifying, and quiting connection, as well as view relevant connection details in the terminal. This is a very simple lil-code that I thought I would make public cuz why not 0-0 . You can quite easily modify the code for you're use case... 
+This tool is designed to start and end connections when specified to random Amsterdam MullvadVPN servers using WireGuard. It provides functionality to automatically start, vertify, and quit connection, as well as view relevant connection details in the terminal. This is a very simple lil-code that I thought I would make public cuz why not 0-0 . You can quite easily modify the code for you're use case... 
 
 - MullVad config-files download url; "https://mullvad.net/en/account/wireguard-config"
 
