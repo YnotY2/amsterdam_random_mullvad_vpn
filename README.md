@@ -65,6 +65,10 @@ sudo python3 grant_permissions.py
 
 3. **Run the Tool**: Execute the `main.py` file to start the MullvadVPN connection tool:
 
+```bash
+python3 main.py
+```
+
 ## Ouput-code:
 
 ```python
